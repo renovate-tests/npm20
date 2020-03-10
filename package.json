@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "renovate": "19.166.0"
+    "renovate": "19.167.0"
   },
   "renovate": {
     "stabilityDays": 3
